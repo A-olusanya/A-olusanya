@@ -73,7 +73,7 @@ Check out my projects below to see how I'm applying my skills and knowledge in r
 - Ongoing learning and certifications in Fullstack Web Development at Pluralcode Academy.
 
 📫 Let's Connect:
-I'm open to collaboration, learning opportunities, and connecting with fellow developers and enthusiasts. Feel free to reach out to me here on GitHub or connect with me on LinkedIn: www.linkedin.com/in/olusanya-ayomide-0838071b3 and Twitter: Ayothe_kvng
+I'm open to collaboration, learning opportunities, and connecting with fellow developers and enthusiasts. Feel free to reach out to me here on GitHub or connect with me on LinkedIn: www.linkedin.com/in/olusanya-ayomide-0838071b3 and Twitter: https://twitter.com/ayothe_kvng 
 
 🌍 Thank you for visiting my GitHub profile! Let's code and innovate together! 🚀.
 
